@@ -1,6 +1,17 @@
 # ResumeManagementSystem
 Will Maintain Employee Resume
 
+MENU OPTION
+===========
+1) Home
+2) Registration Page
+3) Login Page
+4) View Profile
+5) Update Profile
+6) Delete Profile
+7) Logout
+8) About us
+
 REGISTRATION PAGE
 =================
 1) Name
